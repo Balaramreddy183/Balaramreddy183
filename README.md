@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Flutter, Angular**
 
 - 👨‍💻 All of my projects are available at [https://balaramreddy.mobasa.tech/](https://balaramreddy.mobasa.tech/)
-
+ 
 - 📫 How to reach me **balaramreddy473@gmail.com**
 
 - 📄 Know about my experiences [https://balaramreddy.mobasa.tech/images/files/Balaramreddy.Pandillapalli.pdf](https://balaramreddy.mobasa.tech/images/files/Balaramreddy.Pandillapalli.pdf)
