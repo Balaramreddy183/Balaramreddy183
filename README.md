@@ -50,7 +50,7 @@
 </div>
 
 <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaramreddy183&show_icons=true&locale=en&layout=compact" alt="balaramreddy183" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaramreddy183&" alt="balaramreddy183" /></p>
 
 
