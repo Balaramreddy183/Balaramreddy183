@@ -48,9 +48,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
 </div>
-
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaramreddy183&show_icons=true&locale=en&layout=compact" alt="balaramreddy183" /></p>
 <br>
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaramreddy183&show_icons=true&locale=en&layout=compact" alt="balaramreddy183" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaramreddy183&" alt="balaramreddy183" /></p>
 
 
