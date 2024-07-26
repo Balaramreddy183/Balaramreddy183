@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Srikari Impetus Solutions Pvt. Ltd.**
 
-- 🌱 I’m currently working on  ** Angular**
+- 🌱 I’m currently working on  ** Angular **
 
 - 👨‍💻 All of my projects are available at [https://balaramreddy.mobasa.tech/](https://balaramreddy.mobasa.tech/)
  
