@@ -18,7 +18,7 @@
     <a href="https://instagram.com/balaramreddy__._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balaramreddy__._._" height="40" width="50" /></a>
 </p>
 
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left" style=" margin-bottom:30px;">
@@ -47,7 +47,7 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-</div>
+ </div> -->
 <br>
 <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaramreddy183&show_icons=true&locale=en&layout=compact" alt="balaramreddy183" /></p>
 
