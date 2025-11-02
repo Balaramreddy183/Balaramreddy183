@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Balaramreddy Pandillapalli</h1>
-<p align="left">Crafting Seamless User Experiences with HTML, CSS, and JavaScript. Fluent in Bootstrap for Responsive Designs and Flutter for Cross-Platform Brilliance. Let's Transform Ideas into <b>Intuitive Interfaces! </b></p>
+<p align="left">Crafting Seamless User Experiences with MEAN stack. Let's Transform Ideas into <b>Intuitive Applications! </b></p>
 
-- 🔭 I’m currently working at **Srikari Impetus Solutions Pvt. Ltd.**
+- 🔭 I’m currently working at **MAQ SOFTWARE**
 
-- 🌱 I’m currently working on  ** Angular **
+- 🌱 I’m currently working on  ** FULL STACK [MEAN] **
 
-- 👨‍💻 All of my projects are available at [https://balaram-portfolio.onrender.com](https://balaram-portfolio.onrender.com)
+- 👨‍💻 All of my projects are available at [https://balaramreddy.tech](https://balaramreddy.tech)
  
 - 📫 How to reach me **balaramreddy473@gmail.com**
 
